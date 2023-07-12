@@ -185,17 +185,21 @@ color: var(--white);
   line-height: 1.6;
 }
 .divider{
-  height:10vh;
+  height:15vh;
   background-color: var(--main-color-light);
   display:flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .divider h1{
   font-weight: 100;
   font-size: 1.8rem;
-  color: var(--grey);
+  margin:0;
+  color: var(--main-color);
+}
+.divider p{
+  margin:0;
 }
 .living-repo{
   display:flex;
@@ -246,7 +250,9 @@ color: var(--grey);
   display: flex;
   max-width:100% !important;
   width:100% !important;
-
+  padding: 2rem 0;
+  justify-content: center;
+  align-items: center;
   flex-direction: column;
 }
 .project-row{
