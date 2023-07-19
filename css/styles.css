@@ -293,12 +293,12 @@ margin-top: 20px;
   box-shadow: 2px 2px 8px hsla(201,65%,19%, 0.15);
 }
 .project-text{
-  height: 240px;
+  height: 300px;
   width:fit-content;
   padding: 2rem;
   display:flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: flex-start;
   gap:20px;
 }
@@ -307,8 +307,8 @@ margin-top: 20px;
   margin:0;
   overflow: hidden;
   display: -webkit-box;
-  -webkit-line-clamp: 4; /* number of lines to show */
-          line-clamp: 4; 
+  -webkit-line-clamp: 7; /* number of lines to show */
+          line-clamp: 7; 
   -webkit-box-orient: vertical;
 
 }
