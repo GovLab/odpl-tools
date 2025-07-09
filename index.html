@@ -15,7 +15,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.typekit.net/qfb0yjw.css">
     <link href="css/styles.css" rel="stylesheet">
-    <script src="https://unpkg.com/@directus/sdk-js@5.3.4/dist/directus-sdk.umd.min.js"></script>
 </head>
 
 
@@ -68,7 +67,7 @@
             <div class="project-card">
                 <div class="project-img">
                      <img v-if="!item.thumbnail" src="img/default-thumb.png">
-                     <img v-if="item.thumbnail" :src="item.thumbnail.data.thumbnails[4].url">
+                     <img v-if="item.thumbnail" :src="item.thumbnail.local_url">
                 
                 </div>
                 <div class="project-text">
@@ -94,7 +93,7 @@
         <div class="project-card">
             <div class="project-img">
                  <img v-if="!item.thumbnail" src="img/default-thumb-2.png">
-                 <img v-if="item.thumbnail" :src="item.thumbnail.data.thumbnails[4].url">
+                 <img v-if="item.thumbnail" :src="item.thumbnail.local_url">
             </div>
             <div class="project-text">
                 <p id="title">{{item.title}}</p>
@@ -118,7 +117,7 @@
         <div class="project-card">
             <div class="project-img">
                 <img v-if="!item.thumbnail" src="img/default-thumb-3.png">
-                <img v-if="item.thumbnail" :src="item.thumbnail.data.thumbnails[4].url">
+                <img v-if="item.thumbnail" :src="item.thumbnail.local_url">
             </div>
             <div class="project-text">
                 <p id="title">{{item.title}}</p>
@@ -143,7 +142,7 @@
             <div class="project-img">
 
                 <img v-if="!item.thumbnail" src="img/default-thumb-4.png">
-                <img v-if="item.thumbnail" :src="item.thumbnail.data.thumbnails[4].url">
+                <img v-if="item.thumbnail" :src="item.thumbnail.local_url">
             </div>
             <div class="project-text">
                 <p id="title">{{item.title}}</p>

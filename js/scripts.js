@@ -30,7 +30,7 @@ new Vue({
 
     return {
       indexData: [],
-      apiURL: 'https://directus.thegovlab.com/odpl-course',
+      // apiURL: 'https://directus.thegovlab.com/odpl-course',
     }
   },
 
@@ -40,20 +40,18 @@ new Vue({
   methods: {
     fetchIndex(){
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "odpl_course",
-        storage: window.localStorage
-      });
-      client.getItems(
-        'odpl_tools',
-        {
-          fields: ['*.*']
-        }
-      ).then(data => {
-        console.log(data)
-        self.indexData = data.data;
-      })
+      // Instead of API, load local JSON
+      fetch('data/tools.json')
+        .then(response => response.json())
+        .then(data => {
+          // Patch image URLs to local
+          self.indexData = data.data.map(tool => {
+            if (tool.thumbnail && tool.thumbnail.private_hash) {
+              tool.thumbnail.local_url = `img/${tool.thumbnail.private_hash}.jpg`;
+            }
+            return tool;
+          });
+        })
         .catch(error => console.error(error));
     },
 

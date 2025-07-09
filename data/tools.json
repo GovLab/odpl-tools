@@ -1,0 +1,2671 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "A User's Guide to the 9Rs Framework",
+      "description": "The 9Rs Framework provides an evidence-based model for identifying why an organization might open its data and the benefits it can yield, whether that be in producing Knowledge and Insights, Improving Brand Equity, or Establishing a License to Operate.  Readers will find a worksheet they can use to track how their project fulfills each “R.”",
+      "link": "https://businesscase.opendatapolicylab.org/",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 174,
+        "storage": "local",
+        "private_hash": "mqta6osdgc0swogw",
+        "filename_disk": "c9881572-a4e1-4b66-88a0-0f5ad4aaabf4.png",
+        "filename_download": "9rs.png",
+        "title": "9rs",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:34:28+00:00",
+        "charset": "binary",
+        "filesize": 305494,
+        "width": 974,
+        "height": 483,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "b7fccbd782c870042880b6d2815a2b20",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/c9881572-a4e1-4b66-88a0-0f5ad4aaabf4.png",
+          "url": "/uploads/odpl_course/originals/c9881572-a4e1-4b66-88a0-0f5ad4aaabf4.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/mqta6osdgc0swogw?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/mqta6osdgc0swogw?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/mqta6osdgc0swogw?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/mqta6osdgc0swogw?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/mqta6osdgc0swogw?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/mqta6osdgc0swogw?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/mqta6osdgc0swogw?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/mqta6osdgc0swogw?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/mqta6osdgc0swogw?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/mqta6osdgc0swogw?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/mqta6osdgc0swogw?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/mqta6osdgc0swogw?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/mqta6osdgc0swogw?key=thumbnail",
+              "relative_url": "/odpl_course/assets/mqta6osdgc0swogw?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 2,
+      "title": "A User’s Guide to the Periodic Table of Open Data Elements",
+      "description": "The User's Guide is a fillable document designed to empower data stewards and others seeking to improve data access. It can be used as a checklist and tool to weigh different elements based on their context and priorities. ",
+      "link": "https://periodictable.opendatapolicylab.org/",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 176,
+        "storage": "local",
+        "private_hash": "e2npsf86bkocoog4",
+        "filename_disk": "5c237a72-5963-4d7e-8c50-ba9ba83c6b69.png",
+        "filename_download": "periodictable.png",
+        "title": "Periodictable",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:35:35+00:00",
+        "charset": "binary",
+        "filesize": 106395,
+        "width": 1197,
+        "height": 890,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "daac3b7a2fb6e298d28f18e308755d6d",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/5c237a72-5963-4d7e-8c50-ba9ba83c6b69.png",
+          "url": "/uploads/odpl_course/originals/5c237a72-5963-4d7e-8c50-ba9ba83c6b69.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/e2npsf86bkocoog4?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/e2npsf86bkocoog4?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/e2npsf86bkocoog4?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/e2npsf86bkocoog4?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/e2npsf86bkocoog4?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/e2npsf86bkocoog4?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/e2npsf86bkocoog4?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/e2npsf86bkocoog4?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/e2npsf86bkocoog4?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/e2npsf86bkocoog4?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/e2npsf86bkocoog4?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/e2npsf86bkocoog4?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/e2npsf86bkocoog4?key=thumbnail",
+              "relative_url": "/odpl_course/assets/e2npsf86bkocoog4?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 3,
+      "title": "Data Responsibility Journey",
+      "description": "The Data Responsibility Journey is an assessment tool that outlines the opportunities and risks to consider at each stage of the data lifecycle when implementing a data collaborative.",
+      "link": "https://dataresponsibilityjourney.org/",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 177,
+        "storage": "local",
+        "private_hash": "cjq231tw8dck4ss4",
+        "filename_disk": "48e0a386-b22a-4983-ad95-768b1da74a7b.png",
+        "filename_download": "1dataresponsibilityjourney.png",
+        "title": "1dataresponsibilityjourney",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:36:41+00:00",
+        "charset": "binary",
+        "filesize": 67920,
+        "width": 1183,
+        "height": 871,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "26afd139719eeeccd881d4e1102a16dc",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/48e0a386-b22a-4983-ad95-768b1da74a7b.png",
+          "url": "/uploads/odpl_course/originals/48e0a386-b22a-4983-ad95-768b1da74a7b.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/cjq231tw8dck4ss4?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/cjq231tw8dck4ss4?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/cjq231tw8dck4ss4?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/cjq231tw8dck4ss4?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/cjq231tw8dck4ss4?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/cjq231tw8dck4ss4?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/cjq231tw8dck4ss4?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/cjq231tw8dck4ss4?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/cjq231tw8dck4ss4?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/cjq231tw8dck4ss4?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/cjq231tw8dck4ss4?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/cjq231tw8dck4ss4?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/cjq231tw8dck4ss4?key=thumbnail",
+              "relative_url": "/odpl_course/assets/cjq231tw8dck4ss4?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 4,
+      "title": "How to Master the Practice of Defining Problems: Problem Definition Tool",
+      "description": "Derived from a model developed through practice by The GovLab’s Stefaan Verhulst and Andrew Young, this tool guides practitioners through different stages to ensure that the work they conduct is as actionable as possible. It offers guidance, brainstorming exercises, and supplementary resources on problem identification; the clarification cycle; the mapping phase; the question cycle; and the change theory cycle.",
+      "link": "https://incubator.opendatapolicylab.org/files/ODPLTool_ProblemDefinition.pdf",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 178,
+        "storage": "local",
+        "private_hash": "d4yxwtne3qos8wck",
+        "filename_disk": "187beb7d-976c-4c65-bed1-a3f6ca0153a7.png",
+        "filename_download": "1problemdef.png",
+        "title": "1problemdef",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:37:56+00:00",
+        "charset": "binary",
+        "filesize": 267430,
+        "width": 862,
+        "height": 757,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "8d1dbd709928f3dbae3ce645c95777c1",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/187beb7d-976c-4c65-bed1-a3f6ca0153a7.png",
+          "url": "/uploads/odpl_course/originals/187beb7d-976c-4c65-bed1-a3f6ca0153a7.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/d4yxwtne3qos8wck?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/d4yxwtne3qos8wck?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/d4yxwtne3qos8wck?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/d4yxwtne3qos8wck?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/d4yxwtne3qos8wck?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/d4yxwtne3qos8wck?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/d4yxwtne3qos8wck?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/d4yxwtne3qos8wck?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/d4yxwtne3qos8wck?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/d4yxwtne3qos8wck?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/d4yxwtne3qos8wck?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/d4yxwtne3qos8wck?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/d4yxwtne3qos8wck?key=thumbnail",
+              "relative_url": "/odpl_course/assets/d4yxwtne3qos8wck?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 5,
+      "title": "People-Led Innovation Worksheet",
+      "description": "Designed for city officials, and others seeking ways to improve people’s lives, the People-Led Innovation Worksheet provides a methodology to develop stronger problem-solving processes to approach urban challenges. ",
+      "link": "https://thegovlab.org/people-led-innovation.html",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 179,
+        "storage": "local",
+        "private_hash": "eonr5rfh55w0ck8k",
+        "filename_disk": "b829e9eb-bd1b-4392-995e-d984973eb864.png",
+        "filename_download": "1peoplesled.png",
+        "title": "1peoplesled",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:51:10+00:00",
+        "charset": "binary",
+        "filesize": 73740,
+        "width": 1098,
+        "height": 840,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "3292de1037566840837eb20cce629a8b",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/b829e9eb-bd1b-4392-995e-d984973eb864.png",
+          "url": "/uploads/odpl_course/originals/b829e9eb-bd1b-4392-995e-d984973eb864.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/eonr5rfh55w0ck8k?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/eonr5rfh55w0ck8k?key=thumbnail",
+              "relative_url": "/odpl_course/assets/eonr5rfh55w0ck8k?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 6,
+      "title": "RD4C Data Ecosystem Mapping Tool",
+      "description": "The RD4C Data Ecosystem Mapping Tool helps users identify and understand systems generating data about children to achieve insights around responsible data use, gaps and redundancies in the data, and more.",
+      "link": "https://files.rd4c.org/RD4C_Data_Ecosystem_Mapping.pdf",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 180,
+        "storage": "local",
+        "private_hash": "63zhhs0vymww8w88",
+        "filename_disk": "2d14f7ac-7bad-4d4f-a2ea-8ea7922e399f.png",
+        "filename_download": "1rd4c.png",
+        "title": "1rd4c",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:52:12+00:00",
+        "charset": "binary",
+        "filesize": 151058,
+        "width": 683,
+        "height": 867,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "ecde6a68f2fb1c3de10383fce603fe61",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/2d14f7ac-7bad-4d4f-a2ea-8ea7922e399f.png",
+          "url": "/uploads/odpl_course/originals/2d14f7ac-7bad-4d4f-a2ea-8ea7922e399f.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/63zhhs0vymww8w88?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/63zhhs0vymww8w88?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/63zhhs0vymww8w88?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/63zhhs0vymww8w88?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/63zhhs0vymww8w88?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/63zhhs0vymww8w88?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/63zhhs0vymww8w88?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/63zhhs0vymww8w88?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/63zhhs0vymww8w88?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/63zhhs0vymww8w88?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/63zhhs0vymww8w88?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/63zhhs0vymww8w88?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/63zhhs0vymww8w88?key=thumbnail",
+              "relative_url": "/odpl_course/assets/63zhhs0vymww8w88?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 7,
+      "title": "RD4C Decision Provenance Mapping",
+      "description": "The RD4C Decision Provenance Mapping methodology provides a way for actors designing or assessing data investments for children to identify key decision points and stakeholders with the goal of improving strategies and advancing more professionally accountable data practices.",
+      "link": "https://files.rd4c.org/RD4C_Decision_Provenance_Mapping.pdf",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 181,
+        "storage": "local",
+        "private_hash": "b6zqvoglbjswwwsw",
+        "filename_disk": "92531925-8307-48d9-a7d3-bea2d1dc5211.png",
+        "filename_download": "1rd4c2.png",
+        "title": "1rd4c2",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:53:02+00:00",
+        "charset": "binary",
+        "filesize": 74995,
+        "width": 1110,
+        "height": 855,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "e0ad7296464c93e3a59d8147fcd8ddf8",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/92531925-8307-48d9-a7d3-bea2d1dc5211.png",
+          "url": "/uploads/odpl_course/originals/92531925-8307-48d9-a7d3-bea2d1dc5211.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/b6zqvoglbjswwwsw?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/b6zqvoglbjswwwsw?key=thumbnail",
+              "relative_url": "/odpl_course/assets/b6zqvoglbjswwwsw?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 8,
+      "title": "RD4C Opportunity and Risk Diagnostic",
+      "description": "The RD4C Opportunity and Risk Diagnostic Tool provides organizations with a way to take stock of the RD4C principles and how they might be realized as an organization reviews a data project or system.",
+      "link": "https://files.rd4c.org/RD4C_Opportunity_Risk_Diagnostic_Tool.pdf",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 182,
+        "storage": "local",
+        "private_hash": "nocmlpyow6scc80g",
+        "filename_disk": "ac709a91-7bef-4bf1-be73-3f7088732235.png",
+        "filename_download": "1rd4c3.png",
+        "title": "1rd4c3",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:55:15+00:00",
+        "charset": "binary",
+        "filesize": 61503,
+        "width": 1346,
+        "height": 755,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "2479a08159f20aaa81e937c8a13dbd8b",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/ac709a91-7bef-4bf1-be73-3f7088732235.png",
+          "url": "/uploads/odpl_course/originals/ac709a91-7bef-4bf1-be73-3f7088732235.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/nocmlpyow6scc80g?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/nocmlpyow6scc80g?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/nocmlpyow6scc80g?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/nocmlpyow6scc80g?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/nocmlpyow6scc80g?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/nocmlpyow6scc80g?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/nocmlpyow6scc80g?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/nocmlpyow6scc80g?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/nocmlpyow6scc80g?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/nocmlpyow6scc80g?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/nocmlpyow6scc80g?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/nocmlpyow6scc80g?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/nocmlpyow6scc80g?key=thumbnail",
+              "relative_url": "/odpl_course/assets/nocmlpyow6scc80g?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 9,
+      "title": "AI Localism Canvas",
+      "description": "The canvas is a framework to help decision-makers identify, categorize and assess instances of AI Localism specific to a city or region.",
+      "link": "https://sverhulst.medium.com/the-ai-localism-canvas-a-framework-to-assess-the-emergence-of-governance-of-ai-within-cities-70940bda690",
+      "category": "Models and Frameworks",
+      "thumbnail": {
+        "id": 184,
+        "storage": "local",
+        "private_hash": "24c5l8yvcza8oo4k",
+        "filename_disk": "d5c07fbf-2a9d-4d7f-a195-a70b29f2a5d7.png",
+        "filename_download": "ailocalismcanvas.png",
+        "title": "Ailocalismcanvas",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:56:32+00:00",
+        "charset": "binary",
+        "filesize": 85869,
+        "width": 657,
+        "height": 318,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "cfed1ec4d56a0c318b935612fea6e357",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/d5c07fbf-2a9d-4d7f-a195-a70b29f2a5d7.png",
+          "url": "/uploads/odpl_course/originals/d5c07fbf-2a9d-4d7f-a195-a70b29f2a5d7.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/24c5l8yvcza8oo4k?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/24c5l8yvcza8oo4k?key=thumbnail",
+              "relative_url": "/odpl_course/assets/24c5l8yvcza8oo4k?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 10,
+      "title": "Contractual Wheel of Data Collaboration",
+      "description": "Created by the GovLab and built from an assessment of legal agreements, this wheel and C4DC’s online library of legal clauses were the bases for our analytical framework. They can also serve as a guide for users to gain a better understanding of the nature and function of data sharing agreements.",
+      "link": "https://contractsfordatacollaboration.org/our-framework/",
+      "category": "Models and Frameworks",
+      "thumbnail": {
+        "id": 190,
+        "storage": "local",
+        "private_hash": "myu0a3vnvnk0sgcs",
+        "filename_disk": "23c14636-6097-4662-afaa-80c5300f68a0.png",
+        "filename_download": "1contractualwheel.png",
+        "title": "1contractualwheel",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:10:55+00:00",
+        "charset": "binary",
+        "filesize": 80031,
+        "width": 972,
+        "height": 582,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "a9efef11b88abd26ca7e7e7400c15c9f",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/23c14636-6097-4662-afaa-80c5300f68a0.png",
+          "url": "/uploads/odpl_course/originals/23c14636-6097-4662-afaa-80c5300f68a0.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/myu0a3vnvnk0sgcs?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/myu0a3vnvnk0sgcs?key=thumbnail",
+              "relative_url": "/odpl_course/assets/myu0a3vnvnk0sgcs?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 11,
+      "title": "Data Collaboratives Canvas",
+      "description": "The data collaborative canvas outlines eight phases for designing and implementing a data collaborative (partnership) at an institutional level. The online resource includes examples, enablers, tools, and resources for each phase.",
+      "link": "https://datacollaboratives.org/canvas.html",
+      "category": "Models and Frameworks",
+      "thumbnail": {
+        "id": 186,
+        "storage": "local",
+        "private_hash": "1qo76o95qf0kcg0g",
+        "filename_disk": "e4525855-d654-4c71-a07d-b8e8f86af109.png",
+        "filename_download": "1dccanvas.png",
+        "title": "1dccanvas",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T13:58:01+00:00",
+        "charset": "binary",
+        "filesize": 126243,
+        "width": 1895,
+        "height": 852,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "d692998f7cafbea7074a152d773fea3b",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/e4525855-d654-4c71-a07d-b8e8f86af109.png",
+          "url": "/uploads/odpl_course/originals/e4525855-d654-4c71-a07d-b8e8f86af109.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/1qo76o95qf0kcg0g?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/1qo76o95qf0kcg0g?key=thumbnail",
+              "relative_url": "/odpl_course/assets/1qo76o95qf0kcg0g?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 12,
+      "title": "Data4COVID19 Review Assessment Framework",
+      "description": "The GovLab developed an assessment framework to evaluate how different types of non-traditional data initiatives were organized and implemented. This work is supported by a worksheet that can help assess how those initiatives performed across a specific set of criteria. ",
+      "link": "https://static1.squarespace.com/static/6228efe9bbdd294f0d98edfe/t/6361b53bd7cff8433cae6780/1667347780763/Data4COVID19+Review_Full+Report_31.10.22.pdf",
+      "category": "Models and Frameworks",
+      "thumbnail": {
+        "id": 187,
+        "storage": "local",
+        "private_hash": "j0iblk8kti8kcwgk",
+        "filename_disk": "321803bb-e6cf-4741-9deb-6ef7fc7eb0c1.png",
+        "filename_download": "1assessmentframework.png",
+        "title": "1assessmentframework",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:07:21+00:00",
+        "charset": "binary",
+        "filesize": 438735,
+        "width": 1307,
+        "height": 646,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "74dafbb4f9dd606d2d7f244f6a277ada",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/321803bb-e6cf-4741-9deb-6ef7fc7eb0c1.png",
+          "url": "/uploads/odpl_course/originals/321803bb-e6cf-4741-9deb-6ef7fc7eb0c1.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/j0iblk8kti8kcwgk?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j0iblk8kti8kcwgk?key=thumbnail",
+              "relative_url": "/odpl_course/assets/j0iblk8kti8kcwgk?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 13,
+      "title": "The Circular City Data Value Canvas",
+      "description": "The GovLab developed “Data Value Canvases” to better understand the different aspects of city-centric data collaboratives. This framework explains the context of value propositions, identifies beneficiaries, highlights enabling and disabling conditions and notes proxies for monetary value.",
+      "link": "http://files.thegovlab.org/Circular_Data.pdf",
+      "category": "Models and Frameworks",
+      "thumbnail": {
+        "id": 191,
+        "storage": "local",
+        "private_hash": "n3f4r7i2ciswwc8s",
+        "filename_disk": "1533b1de-8e26-4ded-9e60-59e054d64f30.png",
+        "filename_download": "1circular.png",
+        "title": "1circular",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:13:57+00:00",
+        "charset": "binary",
+        "filesize": 80608,
+        "width": 945,
+        "height": 767,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "8fbdc094588fb37c1aa68cd8460c68d3",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/1533b1de-8e26-4ded-9e60-59e054d64f30.png",
+          "url": "/uploads/odpl_course/originals/1533b1de-8e26-4ded-9e60-59e054d64f30.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/n3f4r7i2ciswwc8s?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3f4r7i2ciswwc8s?key=thumbnail",
+              "relative_url": "/odpl_course/assets/n3f4r7i2ciswwc8s?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 14,
+      "title": "The Data Assembly Responsible Data Re-Use Framework",
+      "description": "The Responsible Data Re-Use Framework synthesizes lessons learned from the New York City Data Assembly and presents a set of design principles to support responsible data handling policy and practice.",
+      "link": "https://thedataassembly.org/",
+      "category": "Models and Frameworks",
+      "thumbnail": {
+        "id": 192,
+        "storage": "local",
+        "private_hash": "62sixs0riww0wwg4",
+        "filename_disk": "483baf75-8703-4b29-8bf5-bb77577184d5.png",
+        "filename_download": "1responsible reuse.png",
+        "title": "1responsible Reuse",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:24:54+00:00",
+        "charset": "binary",
+        "filesize": 170962,
+        "width": 1136,
+        "height": 636,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "e5b9f0b480546f05285d85dbd1fe3245",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/483baf75-8703-4b29-8bf5-bb77577184d5.png",
+          "url": "/uploads/odpl_course/originals/483baf75-8703-4b29-8bf5-bb77577184d5.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/62sixs0riww0wwg4?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/62sixs0riww0wwg4?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/62sixs0riww0wwg4?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/62sixs0riww0wwg4?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/62sixs0riww0wwg4?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/62sixs0riww0wwg4?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/62sixs0riww0wwg4?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/62sixs0riww0wwg4?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/62sixs0riww0wwg4?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/62sixs0riww0wwg4?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/62sixs0riww0wwg4?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/62sixs0riww0wwg4?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/62sixs0riww0wwg4?key=thumbnail",
+              "relative_url": "/odpl_course/assets/62sixs0riww0wwg4?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 15,
+      "title": "Third Wave of Open Data Toolkit",
+      "description": "The toolkit explains the complementary processes that facilitate open data and provides a series of “primers” explaining how each element of the Third Wave of Open Data manifests.",
+      "link": "http://files.thegovlab.org/The-Third-Wave-of-Open-Data-Toolkit.pdf",
+      "category": "Models and Frameworks",
+      "thumbnail": {
+        "id": 193,
+        "storage": "local",
+        "private_hash": "tpa8firvq0gs0o0k",
+        "filename_disk": "d44b2b5f-e438-408c-9040-2be54c2069c8.png",
+        "filename_download": "1dataonion.png",
+        "title": "1dataonion",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:25:58+00:00",
+        "charset": "binary",
+        "filesize": 179044,
+        "width": 1053,
+        "height": 718,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "378b5058f1f6e9e3d32a0a72a85dae16",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/d44b2b5f-e438-408c-9040-2be54c2069c8.png",
+          "url": "/uploads/odpl_course/originals/d44b2b5f-e438-408c-9040-2be54c2069c8.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/tpa8firvq0gs0o0k?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/tpa8firvq0gs0o0k?key=thumbnail",
+              "relative_url": "/odpl_course/assets/tpa8firvq0gs0o0k?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 16,
+      "title": "R-Search Methodology",
+      "description": "The R-Search approach is a useful way to gain a rapid understanding of issues, scholarship, actions and opinions surrounding a topic to allow for the design of responses that are more informed and targeted.",
+      "link": "https://directus.thegovlab.com/uploads/thegovlab/blog_img_archive//2015/01/R-Search.pdf",
+      "category": "Methodologies",
+      "thumbnail": {
+        "id": 194,
+        "storage": "local",
+        "private_hash": "c1hyeggxfj4ggsw0",
+        "filename_disk": "3e3f3de8-2c8e-4721-a8ab-152433cb05da.png",
+        "filename_download": "1rsearch.png",
+        "title": "1rsearch",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:36:34+00:00",
+        "charset": "binary",
+        "filesize": 30193,
+        "width": 762,
+        "height": 472,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "d384ae9d76777c4e6577509f09775fb5",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/3e3f3de8-2c8e-4721-a8ab-152433cb05da.png",
+          "url": "/uploads/odpl_course/originals/3e3f3de8-2c8e-4721-a8ab-152433cb05da.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/c1hyeggxfj4ggsw0?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/c1hyeggxfj4ggsw0?key=thumbnail",
+              "relative_url": "/odpl_course/assets/c1hyeggxfj4ggsw0?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 17,
+      "title": "The 100 Questions Methodology",
+      "description": "The 100 Questions Methodology is a smarter crowdsourcing approach that uses a set of \"bilinguals,\" experts in data science and a domain, to source questions that matter. The public then prioritizes these questions based on their individual concerns. It provides a way to create purposeful, impactful data collaboratives.",
+      "link": "https://the100questions.org/about.html",
+      "category": "Methodologies",
+      "thumbnail": {
+        "id": 195,
+        "storage": "local",
+        "private_hash": "qejj1twb100c4sk8",
+        "filename_disk": "e44d7a32-b6fd-4b3d-94f2-4ffe0611b1f1.png",
+        "filename_download": "100Questions.png",
+        "title": "100questions",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:38:09+00:00",
+        "charset": "binary",
+        "filesize": 207481,
+        "width": 1800,
+        "height": 821,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "6912499b538d99be1b7a0021ea55a3cf",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/e44d7a32-b6fd-4b3d-94f2-4ffe0611b1f1.png",
+          "url": "/uploads/odpl_course/originals/e44d7a32-b6fd-4b3d-94f2-4ffe0611b1f1.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/qejj1twb100c4sk8?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/qejj1twb100c4sk8?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/qejj1twb100c4sk8?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/qejj1twb100c4sk8?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/qejj1twb100c4sk8?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/qejj1twb100c4sk8?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/qejj1twb100c4sk8?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/qejj1twb100c4sk8?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/qejj1twb100c4sk8?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/qejj1twb100c4sk8?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/qejj1twb100c4sk8?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/qejj1twb100c4sk8?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/qejj1twb100c4sk8?key=thumbnail",
+              "relative_url": "/odpl_course/assets/qejj1twb100c4sk8?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 18,
+      "title": "Toward An Open Data Demand Assessment And Segmentation Methodology",
+      "description": "The GovLab, in partnership with the Inter-American Development Bank, and with the support of the French Development Agency developed the Open Data Demand and Assessment Methodology (Beta) to provide open data policymakers and practitioners with an approach for identifying, segmenting, and engaging with demand. ",
+      "link": "https://thegovlab.org/open-data-demand.html",
+      "category": "Methodologies",
+      "thumbnail": {
+        "id": 196,
+        "storage": "local",
+        "private_hash": "pllp5f83xnkggwsk",
+        "filename_disk": "5553ee8d-5c3a-497e-bf7c-fd60fdac3fbe.png",
+        "filename_download": "1methodology.png",
+        "title": "1methodology",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:39:20+00:00",
+        "charset": "binary",
+        "filesize": 113446,
+        "width": 683,
+        "height": 747,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "2bdaddccc0bd7d911b4ac3ed522f5f56",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/5553ee8d-5c3a-497e-bf7c-fd60fdac3fbe.png",
+          "url": "/uploads/odpl_course/originals/5553ee8d-5c3a-497e-bf7c-fd60fdac3fbe.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/pllp5f83xnkggwsk?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/pllp5f83xnkggwsk?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/pllp5f83xnkggwsk?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/pllp5f83xnkggwsk?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/pllp5f83xnkggwsk?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/pllp5f83xnkggwsk?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/pllp5f83xnkggwsk?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/pllp5f83xnkggwsk?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/pllp5f83xnkggwsk?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/pllp5f83xnkggwsk?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/pllp5f83xnkggwsk?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/pllp5f83xnkggwsk?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/pllp5f83xnkggwsk?key=thumbnail",
+              "relative_url": "/odpl_course/assets/pllp5f83xnkggwsk?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 19,
+      "title": "AI Localism Repository",
+      "description": "A living curation of city- and state-level AI governance practices across the world.",
+      "link": "https://list.ailocalism.org/",
+      "category": "Repositories",
+      "thumbnail": {
+        "id": 197,
+        "storage": "local",
+        "private_hash": "87cffnr50rk0skgc",
+        "filename_disk": "6f6c8d45-61e1-4b4d-ad02-cecf7c026da5.png",
+        "filename_download": "1ailocalism.png",
+        "title": "1ailocalism",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:41:33+00:00",
+        "charset": "binary",
+        "filesize": 130230,
+        "width": 1580,
+        "height": 922,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "a5b00a346391601197d51814cbcd243d",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/6f6c8d45-61e1-4b4d-ad02-cecf7c026da5.png",
+          "url": "/uploads/odpl_course/originals/6f6c8d45-61e1-4b4d-ad02-cecf7c026da5.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/87cffnr50rk0skgc?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/87cffnr50rk0skgc?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/87cffnr50rk0skgc?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/87cffnr50rk0skgc?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/87cffnr50rk0skgc?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/87cffnr50rk0skgc?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/87cffnr50rk0skgc?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/87cffnr50rk0skgc?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/87cffnr50rk0skgc?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/87cffnr50rk0skgc?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/87cffnr50rk0skgc?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/87cffnr50rk0skgc?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/87cffnr50rk0skgc?key=thumbnail",
+              "relative_url": "/odpl_course/assets/87cffnr50rk0skgc?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 20,
+      "title": "Contracts for Data Collaboration Library",
+      "description": "This C4DC legal agreement library hosts clauses taken from numerous data sharing agreements. Under “List of Example Agreements”, the reader can view the complete list of agreements represented in the library.",
+      "link": "https://contractsfordatacollaboration.org/library/",
+      "category": "Repositories",
+      "thumbnail": {
+        "id": 198,
+        "storage": "local",
+        "private_hash": "4kq83jrn53eo8g80",
+        "filename_disk": "50c50a14-f94a-4360-bb2e-be167adba9c9.png",
+        "filename_download": "1exampleaggreements.png",
+        "title": "1exampleaggreements",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:42:28+00:00",
+        "charset": "binary",
+        "filesize": 94742,
+        "width": 1505,
+        "height": 810,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "67255b29d4750ec180e448b4290b5475",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/50c50a14-f94a-4360-bb2e-be167adba9c9.png",
+          "url": "/uploads/odpl_course/originals/50c50a14-f94a-4360-bb2e-be167adba9c9.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/4kq83jrn53eo8g80?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/4kq83jrn53eo8g80?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/4kq83jrn53eo8g80?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/4kq83jrn53eo8g80?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/4kq83jrn53eo8g80?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/4kq83jrn53eo8g80?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/4kq83jrn53eo8g80?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/4kq83jrn53eo8g80?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/4kq83jrn53eo8g80?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/4kq83jrn53eo8g80?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/4kq83jrn53eo8g80?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/4kq83jrn53eo8g80?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/4kq83jrn53eo8g80?key=thumbnail",
+              "relative_url": "/odpl_course/assets/4kq83jrn53eo8g80?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 21,
+      "title": "Data4COVID19 Data Collaborative Repository",
+      "description": "A collection of almost 300 data collaboratives, data competitions, requests for proposals, and other innovative public- and private-sector data work seeking to address the pandemic.",
+      "link": "https://list.data4covid19.org/",
+      "category": "Repositories",
+      "thumbnail": {
+        "id": 199,
+        "storage": "local",
+        "private_hash": "hibr8cycgy88ccgo",
+        "filename_disk": "bb63d320-222e-4f4a-b3d9-6e1e5b8cf540.png",
+        "filename_download": "1data4covid.png",
+        "title": "1data4covid",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:43:35+00:00",
+        "charset": "binary",
+        "filesize": 856945,
+        "width": 1068,
+        "height": 641,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "5f0b7e5f5fb2d7a65ae4bbfd8ad231f1",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/bb63d320-222e-4f4a-b3d9-6e1e5b8cf540.png",
+          "url": "/uploads/odpl_course/originals/bb63d320-222e-4f4a-b3d9-6e1e5b8cf540.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/hibr8cycgy88ccgo?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/hibr8cycgy88ccgo?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/hibr8cycgy88ccgo?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/hibr8cycgy88ccgo?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/hibr8cycgy88ccgo?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/hibr8cycgy88ccgo?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/hibr8cycgy88ccgo?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/hibr8cycgy88ccgo?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/hibr8cycgy88ccgo?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/hibr8cycgy88ccgo?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/hibr8cycgy88ccgo?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/hibr8cycgy88ccgo?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/hibr8cycgy88ccgo?key=thumbnail",
+              "relative_url": "/odpl_course/assets/hibr8cycgy88ccgo?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 22,
+      "title": "Data4COVID Mobility Data Collaborative Repository",
+      "description": "A collection of data collaboratives that make use of data about mobility to support decision-making regarding pandemic prevention, monitoring, and response.",
+      "link": "http://mobility.data4covid19.org/",
+      "category": "Repositories",
+      "thumbnail": {
+        "id": 200,
+        "storage": "local",
+        "private_hash": "a4gc5atfho8w08go",
+        "filename_disk": "7cc9543b-4c23-43a1-9010-f8157002b89a.png",
+        "filename_download": "1datamobility.png",
+        "title": "1datamobility",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:45:23+00:00",
+        "charset": "binary",
+        "filesize": 728795,
+        "width": 1068,
+        "height": 642,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "6a5fae86794bad0bd1cfc10e98c485a1",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/7cc9543b-4c23-43a1-9010-f8157002b89a.png",
+          "url": "/uploads/odpl_course/originals/7cc9543b-4c23-43a1-9010-f8157002b89a.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/a4gc5atfho8w08go?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/a4gc5atfho8w08go?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/a4gc5atfho8w08go?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/a4gc5atfho8w08go?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/a4gc5atfho8w08go?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/a4gc5atfho8w08go?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/a4gc5atfho8w08go?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/a4gc5atfho8w08go?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/a4gc5atfho8w08go?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/a4gc5atfho8w08go?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/a4gc5atfho8w08go?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/a4gc5atfho8w08go?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/a4gc5atfho8w08go?key=thumbnail",
+              "relative_url": "/odpl_course/assets/a4gc5atfho8w08go?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 23,
+      "title": "Data Collaboratives Explorer",
+      "description": "The Data Collaboratives Explorer is the largest collection of data collaboratives, a new form of collaboration, beyond the public-private partnership model, in which participants from different sectors — in particular companies — exchange their data to create public value. ",
+      "link": "https://datacollaboratives.org/explorer.html",
+      "category": "Repositories",
+      "thumbnail": {
+        "id": 201,
+        "storage": "local",
+        "private_hash": "69hvjqaosts8cggs",
+        "filename_disk": "807ca5a8-62b8-4cf5-bc3f-43bc1e20328b.png",
+        "filename_download": "1datacollab.png",
+        "title": "1datacollab",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:46:04+00:00",
+        "charset": "binary",
+        "filesize": 100171,
+        "width": 1895,
+        "height": 841,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "09850fdb76fe7d4b1b8e66214a00616b",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/807ca5a8-62b8-4cf5-bc3f-43bc1e20328b.png",
+          "url": "/uploads/odpl_course/originals/807ca5a8-62b8-4cf5-bc3f-43bc1e20328b.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/69hvjqaosts8cggs?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/69hvjqaosts8cggs?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/69hvjqaosts8cggs?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/69hvjqaosts8cggs?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/69hvjqaosts8cggs?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/69hvjqaosts8cggs?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/69hvjqaosts8cggs?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/69hvjqaosts8cggs?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/69hvjqaosts8cggs?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/69hvjqaosts8cggs?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/69hvjqaosts8cggs?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/69hvjqaosts8cggs?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/69hvjqaosts8cggs?key=thumbnail",
+              "relative_url": "/odpl_course/assets/69hvjqaosts8cggs?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 24,
+      "title": "State of Open Data Policy Repository",
+      "description": "A repository of recent policy developments surrounding open data, data reuse, and data collaboration around the world. It looks specifically at how these policies can better enable a third wave of open data.\n",
+      "link": "https://repository.opendatapolicylab.org/",
+      "category": "Repositories",
+      "thumbnail": {
+        "id": 202,
+        "storage": "local",
+        "private_hash": "batrtcgo99cggo4g",
+        "filename_disk": "730dbf80-757a-4b64-891b-e01f3e724810.png",
+        "filename_download": "1datarepository.png",
+        "title": "1datarepository",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-07-19T14:46:56+00:00",
+        "charset": "binary",
+        "filesize": 141311,
+        "width": 1896,
+        "height": 831,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "0ecce3a6c13e05f372e43a423ede70d6",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/730dbf80-757a-4b64-891b-e01f3e724810.png",
+          "url": "/uploads/odpl_course/originals/730dbf80-757a-4b64-891b-e01f3e724810.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/batrtcgo99cggo4g?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/batrtcgo99cggo4g?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/batrtcgo99cggo4g?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/batrtcgo99cggo4g?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/batrtcgo99cggo4g?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/batrtcgo99cggo4g?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/batrtcgo99cggo4g?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/batrtcgo99cggo4g?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/batrtcgo99cggo4g?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/batrtcgo99cggo4g?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/batrtcgo99cggo4g?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/batrtcgo99cggo4g?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/batrtcgo99cggo4g?key=thumbnail",
+              "relative_url": "/odpl_course/assets/batrtcgo99cggo4g?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 25,
+      "title": "Facilitating Data Flows through Data Collaboratives",
+      "description": "This guide provides a comprehensive overview of the key considerations and steps involved in designing and operationalizing data collaboratives. It includes recommendations for decision-makers and practical steps for practitioners.",
+      "link": "https://publications.iadb.org/en/facilitating-data-flows-through-data-collaboratives-practical-guide-designing-valuable-accessible",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 203,
+        "storage": "local",
+        "private_hash": "60heygnbw6o8scww",
+        "filename_disk": "d2b901ea-fe7c-477a-87b8-6773531ef4db.png",
+        "filename_download": "0_jwEBvl6ABi5CgrHT (1).png",
+        "title": "0 Jwebvl6abi5cgrht (1)",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-10-18T18:18:32+00:00",
+        "charset": "binary",
+        "filesize": 905372,
+        "width": 690,
+        "height": 856,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "2d976ef4eb31190ada8628f31018e1eb",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/d2b901ea-fe7c-477a-87b8-6773531ef4db.png",
+          "url": "/uploads/odpl_course/originals/d2b901ea-fe7c-477a-87b8-6773531ef4db.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/60heygnbw6o8scww?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/60heygnbw6o8scww?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/60heygnbw6o8scww?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/60heygnbw6o8scww?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/60heygnbw6o8scww?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/60heygnbw6o8scww?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/60heygnbw6o8scww?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/60heygnbw6o8scww?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/60heygnbw6o8scww?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/60heygnbw6o8scww?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/60heygnbw6o8scww?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/60heygnbw6o8scww?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/60heygnbw6o8scww?key=thumbnail",
+              "relative_url": "/odpl_course/assets/60heygnbw6o8scww?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 26,
+      "title": "Data Sandboxes: Managing the Open Data Spectrum",
+      "description": "A white paper to support responsible and innovative data collaboration practices through the design, adoption, and governance of data sandboxes.",
+      "link": "https://incubator.opendatapolicylab.org/files/DataSandboxesPrimer.pdf",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 204,
+        "storage": "local",
+        "private_hash": "n3fjx4193u8ogs00",
+        "filename_disk": "7c69aa63-a5a3-4af3-81e9-78b676ae3f91.png",
+        "filename_download": "Screenshot 2023-10-18 142024.png",
+        "title": "Screenshot 2023 10 18 142024",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-10-18T18:20:34+00:00",
+        "charset": "binary",
+        "filesize": 496344,
+        "width": 685,
+        "height": 745,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "6111399b0e3bf82add5bc8377086e80f",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/7c69aa63-a5a3-4af3-81e9-78b676ae3f91.png",
+          "url": "/uploads/odpl_course/originals/7c69aa63-a5a3-4af3-81e9-78b676ae3f91.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3fjx4193u8ogs00?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/n3fjx4193u8ogs00?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3fjx4193u8ogs00?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/n3fjx4193u8ogs00?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3fjx4193u8ogs00?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/n3fjx4193u8ogs00?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3fjx4193u8ogs00?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/n3fjx4193u8ogs00?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3fjx4193u8ogs00?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/n3fjx4193u8ogs00?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3fjx4193u8ogs00?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/n3fjx4193u8ogs00?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/n3fjx4193u8ogs00?key=thumbnail",
+              "relative_url": "/odpl_course/assets/n3fjx4193u8ogs00?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 27,
+      "title": "Moving From Idea to Practice: Three Resources to Streamline the Creation of Data Sharing Agreements",
+      "description": "In February and March 2023, the Open Data Policy Lab and TrustRelay co-hosted conversations with multiple experts in law, data, and smart cities to solve this problem. The result was three documents that seek to help data stewards in the public and private sector address common barriers to forming a data sharing agreement. ",
+      "link": "https://www.dsa.opendatapolicylab.org/",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 205,
+        "storage": "local",
+        "private_hash": "8p8s71tl3h4woo0c",
+        "filename_disk": "e4b22d0e-6b04-40ce-b0ba-4b6d6c7eef12.png",
+        "filename_download": "odplguide.png",
+        "title": "Odplguide",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2023-11-07T19:36:29+00:00",
+        "charset": "binary",
+        "filesize": 708883,
+        "width": 571,
+        "height": 741,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "fa0252c8497d20e9b91bb97bdc9e4aa7",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/e4b22d0e-6b04-40ce-b0ba-4b6d6c7eef12.png",
+          "url": "/uploads/odpl_course/originals/e4b22d0e-6b04-40ce-b0ba-4b6d6c7eef12.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/8p8s71tl3h4woo0c?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8p8s71tl3h4woo0c?key=thumbnail",
+              "relative_url": "/odpl_course/assets/8p8s71tl3h4woo0c?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 28,
+      "title": "Trust but Verify: A Guide to Conducting Due Diligence When Leveraging Non-Traditional Data in the Public Interest",
+      "description": "The potential of non-traditional data for tackling societal challenges like disaster response, public healthcare, and environmental protection is promising. However, alongside these opportunities come significant ethical, legal, and operational risk. Our latest report, Trust but Verify, offers a six-step framework for conducting due diligence in non-traditional data partnerships. Authored by Sara Marcucci, Andrew J. Zahuranec, and Stefaan Verhulst, this guide is designed to help both public and private sectors navigate the ethical, legal, and practical challenges of setting up non-traditional data initiatives.\n",
+      "link": "https://incubator.opendatapolicylab.org/files/TrustButVerify.pdf",
+      "category": "Methodologies",
+      "thumbnail": {
+        "id": 224,
+        "storage": "local",
+        "private_hash": "j3go2akrgbccgs48",
+        "filename_disk": "c084c550-aba6-41a4-bda1-87fe3afd3be5.png",
+        "filename_download": "Screenshot 2024-12-17 at 16.51.14.png",
+        "title": "Screenshot 2024 12 17 At 16.51.14",
+        "type": "image/png",
+        "uploaded_by": 14,
+        "uploaded_on": "2024-12-17T15:51:22+00:00",
+        "charset": "binary",
+        "filesize": 774800,
+        "width": 804,
+        "height": 727,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "2cfa28d3948d3831f79c0c02bceb721a",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/c084c550-aba6-41a4-bda1-87fe3afd3be5.png",
+          "url": "/uploads/odpl_course/originals/c084c550-aba6-41a4-bda1-87fe3afd3be5.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j3go2akrgbccgs48?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/j3go2akrgbccgs48?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j3go2akrgbccgs48?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/j3go2akrgbccgs48?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j3go2akrgbccgs48?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/j3go2akrgbccgs48?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j3go2akrgbccgs48?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/j3go2akrgbccgs48?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j3go2akrgbccgs48?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/j3go2akrgbccgs48?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j3go2akrgbccgs48?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/j3go2akrgbccgs48?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/j3go2akrgbccgs48?key=thumbnail",
+              "relative_url": "/odpl_course/assets/j3go2akrgbccgs48?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 29,
+      "title": "A Blueprint to Unlock New Data Commons for AI",
+      "description": "This Blueprint guides organizations that have or steward data on how to create new\ndata commons to enable public-interest AI use cases. It includes four modules, providing step by step guides on how to map the supply and demand, unlock participatory governance, build the commons, and assess and iterate.",
+      "link": "https://incubator.opendatapolicylab.org/files/data-commons-for-ai-blueprint.pdf",
+      "category": "Methodologies",
+      "thumbnail": {
+        "id": 225,
+        "storage": "local",
+        "private_hash": "8c6x2v0c97k0o444",
+        "filename_disk": "0d66ffe1-34d0-48ba-a4c1-70d5d1726a1d.png",
+        "filename_download": "Screenshot 2025-03-11 144711.png",
+        "title": "Screenshot 2025 03 11 144711",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2025-03-11T18:47:21+00:00",
+        "charset": "binary",
+        "filesize": 401032,
+        "width": 499,
+        "height": 656,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "b1426c0411e7912e2d410db45fb4422a",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/0d66ffe1-34d0-48ba-a4c1-70d5d1726a1d.png",
+          "url": "/uploads/odpl_course/originals/0d66ffe1-34d0-48ba-a4c1-70d5d1726a1d.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8c6x2v0c97k0o444?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/8c6x2v0c97k0o444?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8c6x2v0c97k0o444?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/8c6x2v0c97k0o444?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8c6x2v0c97k0o444?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/8c6x2v0c97k0o444?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8c6x2v0c97k0o444?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/8c6x2v0c97k0o444?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8c6x2v0c97k0o444?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/8c6x2v0c97k0o444?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8c6x2v0c97k0o444?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/8c6x2v0c97k0o444?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/8c6x2v0c97k0o444?key=thumbnail",
+              "relative_url": "/odpl_course/assets/8c6x2v0c97k0o444?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 30,
+      "title": "Taxonomy of Data Commons Use Cases for AI",
+      "description": "A supplement to \"A Blueprint to Unlock New Data Commons for AI\", this document provides a framework that maps the types of data useful for generative AI applications. It also outlines 10 distinct AI use cases where a data commons approach could be vaulable for society.",
+      "link": "https://incubator.opendatapolicylab.org/files/appendix%20b.pdf",
+      "category": "Models and Frameworks",
+      "thumbnail": {
+        "id": 226,
+        "storage": "local",
+        "private_hash": "og04un1dcms8okko",
+        "filename_disk": "51b853f0-718a-4ffc-bf27-92706c5b2fb7.png",
+        "filename_download": "Screenshot 2025-03-11 145445.png",
+        "title": "Screenshot 2025 03 11 145445",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2025-03-11T18:54:58+00:00",
+        "charset": "binary",
+        "filesize": 290954,
+        "width": 1190,
+        "height": 758,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "d6a82bdcecf221d60b41b4db3ffea071",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/51b853f0-718a-4ffc-bf27-92706c5b2fb7.png",
+          "url": "/uploads/odpl_course/originals/51b853f0-718a-4ffc-bf27-92706c5b2fb7.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/og04un1dcms8okko?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/og04un1dcms8okko?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/og04un1dcms8okko?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/og04un1dcms8okko?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/og04un1dcms8okko?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/og04un1dcms8okko?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/og04un1dcms8okko?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/og04un1dcms8okko?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/og04un1dcms8okko?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/og04un1dcms8okko?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/og04un1dcms8okko?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/og04un1dcms8okko?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/og04un1dcms8okko?key=thumbnail",
+              "relative_url": "/odpl_course/assets/og04un1dcms8okko?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    },
+    {
+      "id": 31,
+      "title": "Data Commons Blueprint Worksheets",
+      "description": "A supplement to the \"Blueprint to Unlock New Data Commons for AI\", this document provides a series of worksheets that organizations can use when creating a data commons. These correspond with each of the four modules within the blueprint.",
+      "link": "https://incubator.opendatapolicylab.org/files/appendix%20a_fillable.pdf",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 227,
+        "storage": "local",
+        "private_hash": "6fub08azxw0s8sos",
+        "filename_disk": "7773e2f8-f231-4284-9845-25de2113e141.png",
+        "filename_download": "Screenshot 2025-03-11 145749.png",
+        "title": "Screenshot 2025 03 11 145749",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2025-03-11T18:58:02+00:00",
+        "charset": "binary",
+        "filesize": 246369,
+        "width": 1268,
+        "height": 804,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "1ae4c138cf49f8b43d488863bb548ced",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/7773e2f8-f231-4284-9845-25de2113e141.png",
+          "url": "/uploads/odpl_course/originals/7773e2f8-f231-4284-9845-25de2113e141.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=thumbnail",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
+    }
+  ],
+  "public": true
+}
