@@ -2675,6 +2675,92 @@
           "embed": null
         }
       }
+    },
+    {
+      "id": 32,
+      "title": "A Facilitator’s Guide to Establishing a Social License for Data Reuse",
+      "description": "This facilitator’s guide helps practitioners capture preferences and expectations about data reuse through engagements with communities. It includes a worksheet organized around six governance dimensions—why, what, who, how, when, and where—that can be used during discussions to inform decisions about acceptable uses, safeguards, and oversight.",
+      "link": "https://tools.opendatapolicylab.org/files/Data-Re-Use-Worksheet.pdf",
+      "category": "Guides and Worksheets",
+      "thumbnail": {
+        "id": 227,
+        "storage": "local",
+        "private_hash": "eonr5rfh55w0ck891",
+        "filename_disk": "7773e2f8-f231-4284-9845-25de2113e141.png",
+        "filename_download": "Screenshot 2025-03-11 145749.png",
+        "title": "Screenshot 2025 03 11 145749",
+        "type": "image/png",
+        "uploaded_by": 3,
+        "uploaded_on": "2025-03-11T18:58:02+00:00",
+        "charset": "binary",
+        "filesize": 246369,
+        "width": 1268,
+        "height": 804,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "1ae4c138cf49f8b43d488863bb548ced",
+        "metadata": null,
+        "data": {
+          "full_url": "https://directus.thegovlab.com/uploads/odpl_course/originals/7773e2f8-f231-4284-9845-25de2113e141.png",
+          "url": "/uploads/odpl_course/originals/7773e2f8-f231-4284-9845-25de2113e141.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-small-crop",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-small-contain",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-medium-crop",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-medium-contain",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-large-crop",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=directus-large-contain",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/odpl_course/assets/6fub08azxw0s8sos?key=thumbnail",
+              "relative_url": "/odpl_course/assets/6fub08azxw0s8sos?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      }
     }
   ],
   "public": true
